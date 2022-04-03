@@ -1,2 +1,2 @@
 # odin-recipes
-First TOP assignment
+My first Odin project assignment. 
